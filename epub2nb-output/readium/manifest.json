@@ -1,0 +1,243 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Vzpomínky na jednu vesnickou tancovačku",
+    "identifier": "urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b",
+    "author": "Jiří Hájíček",
+    "publisher": "HOST – vydavatelství, s. r. o.",
+    "language": [
+      "cs-CZ",
+      "en-US"
+    ],
+    "published": "2014-10-02T00:00:00.000Z",
+    "description": "Dějištěm dvaceti povídek, které autor napsal v průběhu let 1995—2014, je jihočeský venkov. Setkáváme se tu s všednodenními lidskými mikrodramaty, příběhy vepsanými na plátno velkých dějin nebo jen zachycením nálady, životního pocitu či zkušenosti svérázných i zdánlivě obyčejných postav. Hájíček přitom dokáže velmi plasticky evokovat krajinnou atmosféru – spolu s hrdiny se brouzdáme spadaným listím, dotýkáme stébel kvetoucích trav, nastavujeme tvář slunci nebo se choulíme zimou v obnošených kabátech. Zvláštní místo zde pak zaujímají vánoční příběhy a povídky o vesnickém fotbale.\n\nAutor záměrně nezakrývá jistý odér regionálnosti, naopak jej používá jako koření a ozvláštnění obecně lidských příběhů. Neokázalost, pokud jde o styl, literární hrdiny i příběhy samotné, důvěrná znalost venkovského prostředí, vykreslení atmosféry — to jsou hlavní atributy Hájíčkova psaní. Návraty k realismu a přímočarému vyprávění jako by u autora nebyly otázkou volby, ale nutnosti či samozřejmosti vyplývající z témat a samotné podstaty a poslání jeho próz.\n\nPovídkový výbor Vzpomínky na jednu vesnickou tancovačku dotváří obraz Jiřího Hájíčka jako autora vesnických románů, a doplňuje tak jeho dosavadní prozaické dílo.",
+    "subject": [
+      "Host",
+      "Nakladatelství Host"
+    ],
+    "generator": "Adobe InDesign",
+    "cover": "cover.png"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-1.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-2.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-3.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-4.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-5.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-6.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-7.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-8.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-9.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-10.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-11.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-12.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-13.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-14.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-15.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-16.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-17.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-18.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-19.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-20.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-21.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-22.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-23.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-24.html"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/Hajicek-25.html"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    },
+    {
+      "type": "text/css",
+      "href": "OEBPS/template.css"
+    },
+    {
+      "type": "image/png",
+      "height": 1000,
+      "width": 658,
+      "rel": "cover",
+      "href": "OEBPS/images/cover.png"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/fonts/PermianSlabSerifTypeface.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/fonts/PermianSlabSerifTypeface-Bold.otf"
+    },
+    {
+      "type": "application/vnd.ms-opentype",
+      "href": "OEBPS/fonts/PermianSlabSerifTypeface-Italic.otf"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Pinky a já",
+      "href": "OEBPS/Hajicek-4.html#toc_marker-1"
+    },
+    {
+      "title": "Baladička",
+      "href": "OEBPS/Hajicek-5.html#toc_marker-2"
+    },
+    {
+      "title": "Noc s manekýnou",
+      "href": "OEBPS/Hajicek-6.html#toc_marker-3"
+    },
+    {
+      "title": "Někdy tě hledám",
+      "href": "OEBPS/Hajicek-7.html#toc_marker-4"
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku roku 1986",
+      "href": "OEBPS/Hajicek-8.html#toc_marker-5"
+    },
+    {
+      "title": "Dřevěný nůž",
+      "href": "OEBPS/Hajicek-9.html#toc_marker-6"
+    },
+    {
+      "title": "Havrani ve městě",
+      "href": "OEBPS/Hajicek-10.html#toc_marker-7"
+    },
+    {
+      "title": "Koně se mají pohřbívat",
+      "href": "OEBPS/Hajicek-11.html#toc_marker-8"
+    },
+    {
+      "title": "Příběh milovnice koňakových špiček",
+      "href": "OEBPS/Hajicek-12.html#toc_marker-9"
+    },
+    {
+      "title": "Octavia",
+      "href": "OEBPS/Hajicek-13.html#toc_marker-10"
+    },
+    {
+      "title": "Metání trav",
+      "href": "OEBPS/Hajicek-14.html#toc_marker-11"
+    },
+    {
+      "title": "Melancholické lístečky z podzimních stromů demokracie",
+      "href": "OEBPS/Hajicek-15.html#toc_marker-12"
+    },
+    {
+      "title": "Anděl na půdě",
+      "href": "OEBPS/Hajicek-16.html#toc_marker-13"
+    },
+    {
+      "title": "Baywatch",
+      "href": "OEBPS/Hajicek-17.html#toc_marker-14"
+    },
+    {
+      "title": "Popel nejlepšího záložníka",
+      "href": "OEBPS/Hajicek-18.html#toc_marker-15"
+    },
+    {
+      "title": "Bubny a dýmovnice",
+      "href": "OEBPS/Hajicek-19.html#toc_marker-16"
+    },
+    {
+      "title": "Lvíčata",
+      "href": "OEBPS/Hajicek-20.html#toc_marker-17"
+    },
+    {
+      "title": "Driving Home for Christmas",
+      "href": "OEBPS/Hajicek-21.html#toc_marker-18"
+    },
+    {
+      "title": "Koleje ve sněhu",
+      "href": "OEBPS/Hajicek-22.html#toc_marker-19"
+    },
+    {
+      "title": "Vesnickej román",
+      "href": "OEBPS/Hajicek-23.html#toc_marker-20"
+    },
+    {
+      "title": "Ediční poznámka",
+      "href": "OEBPS/Hajicek-24.html#toc_marker-21"
+    }
+  ]
+}

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+	<head>
+		<meta name="dtb:uid" content="urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b"/>
+		<meta name="dtb:depth" content="1"/>
+		<meta name="dtb:totalPageCount" content="0"/>
+		<meta name="dtb:maxPageNumber" content="0"/>
+	</head>
+	<docTitle>
+		<text/>	</docTitle>
+	<navMap>
+		<navPoint id="navpoint1" playOrder="1">
+			<navLabel>
+				<text>Pinky a já</text>
+			</navLabel>
+			<content src="Hajicek-4.html#toc_marker-1"/>
+		</navPoint>
+		<navPoint id="navpoint2" playOrder="2">
+			<navLabel>
+				<text>Baladička</text>
+			</navLabel>
+			<content src="Hajicek-5.html#toc_marker-2"/>
+		</navPoint>
+		<navPoint id="navpoint3" playOrder="3">
+			<navLabel>
+				<text>Noc s manekýnou</text>
+			</navLabel>
+			<content src="Hajicek-6.html#toc_marker-3"/>
+		</navPoint>
+		<navPoint id="navpoint4" playOrder="4">
+			<navLabel>
+				<text>Někdy tě hledám</text>
+			</navLabel>
+			<content src="Hajicek-7.html#toc_marker-4"/>
+		</navPoint>
+		<navPoint id="navpoint5" playOrder="5">
+			<navLabel>
+				<text>Vzpomínky na jednu vesnickou tancovačku roku 1986</text>
+			</navLabel>
+			<content src="Hajicek-8.html#toc_marker-5"/>
+		</navPoint>
+		<navPoint id="navpoint6" playOrder="6">
+			<navLabel>
+				<text>Dřevěný nůž</text>
+			</navLabel>
+			<content src="Hajicek-9.html#toc_marker-6"/>
+		</navPoint>
+		<navPoint id="navpoint7" playOrder="7">
+			<navLabel>
+				<text>Havrani ve městě</text>
+			</navLabel>
+			<content src="Hajicek-10.html#toc_marker-7"/>
+		</navPoint>
+		<navPoint id="navpoint8" playOrder="8">
+			<navLabel>
+				<text>Koně se mají pohřbívat</text>
+			</navLabel>
+			<content src="Hajicek-11.html#toc_marker-8"/>
+		</navPoint>
+		<navPoint id="navpoint9" playOrder="9">
+			<navLabel>
+				<text>Příběh milovnice koňakových špiček</text>
+			</navLabel>
+			<content src="Hajicek-12.html#toc_marker-9"/>
+		</navPoint>
+		<navPoint id="navpoint10" playOrder="10">
+			<navLabel>
+				<text>Octavia</text>
+			</navLabel>
+			<content src="Hajicek-13.html#toc_marker-10"/>
+		</navPoint>
+		<navPoint id="navpoint11" playOrder="11">
+			<navLabel>
+				<text>Metání trav</text>
+			</navLabel>
+			<content src="Hajicek-14.html#toc_marker-11"/>
+		</navPoint>
+		<navPoint id="navpoint12" playOrder="12">
+			<navLabel>
+				<text>Melancholické lístečky z podzimních stromů demokracie</text>
+			</navLabel>
+			<content src="Hajicek-15.html#toc_marker-12"/>
+		</navPoint>
+		<navPoint id="navpoint13" playOrder="13">
+			<navLabel>
+				<text>Anděl na půdě</text>
+			</navLabel>
+			<content src="Hajicek-16.html#toc_marker-13"/>
+		</navPoint>
+		<navPoint id="navpoint14" playOrder="14">
+			<navLabel>
+				<text>Baywatch</text>
+			</navLabel>
+			<content src="Hajicek-17.html#toc_marker-14"/>
+		</navPoint>
+		<navPoint id="navpoint15" playOrder="15">
+			<navLabel>
+				<text>Popel nejlepšího záložníka</text>
+			</navLabel>
+			<content src="Hajicek-18.html#toc_marker-15"/>
+		</navPoint>
+		<navPoint id="navpoint16" playOrder="16">
+			<navLabel>
+				<text>Bubny a dýmovnice</text>
+			</navLabel>
+			<content src="Hajicek-19.html#toc_marker-16"/>
+		</navPoint>
+		<navPoint id="navpoint17" playOrder="17">
+			<navLabel>
+				<text>Lvíčata</text>
+			</navLabel>
+			<content src="Hajicek-20.html#toc_marker-17"/>
+		</navPoint>
+		<navPoint id="navpoint18" playOrder="18">
+			<navLabel>
+				<text>Driving Home for Christmas</text>
+			</navLabel>
+			<content src="Hajicek-21.html#toc_marker-18"/>
+		</navPoint>
+		<navPoint id="navpoint19" playOrder="19">
+			<navLabel>
+				<text>Koleje ve sněhu</text>
+			</navLabel>
+			<content src="Hajicek-22.html#toc_marker-19"/>
+		</navPoint>
+		<navPoint id="navpoint20" playOrder="20">
+			<navLabel>
+				<text>Vesnickej román</text>
+			</navLabel>
+			<content src="Hajicek-23.html#toc_marker-20"/>
+		</navPoint>
+		<navPoint id="navpoint21" playOrder="21">
+			<navLabel>
+				<text>Ediční poznámka</text>
+			</navLabel>
+			<content src="Hajicek-24.html#toc_marker-21"/>
+		</navPoint>
+	</navMap>
+</ncx>
