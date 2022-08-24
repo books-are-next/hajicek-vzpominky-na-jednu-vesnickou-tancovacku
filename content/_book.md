@@ -1,39 +1,51 @@
 ---
 outputs: meta
 slug: book
-
-languageCode: en-US
+contentType: prose
+languageCode: en
 meta:
-  title: "Next-book Boilerplate"
-  author: "Author Name"
-  publisher: mkp
-  publisherShort: mkp
-  published: 2020
-  keywords: []
-  edition: beletrie
+  title: Vzpomínky na jednu vesnickou tancovačku
+  identifier: urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b
+  author: Jiří Hájíček
+  publisher: HOST – vydavatelství, s. r. o.
 readingOrder:
-  - where-i-lived-and-what-i-lived-for.html
-  - reading.html
-  - sounds.html
-  - solitude.html
+  - promo.html
+  - hajicek.html
+  - hajicek-1.html
+  - hajicek-2.html
+  - hajicek-3.html
+  - hajicek-4.html
+  - hajicek-5.html
+  - hajicek-6.html
+  - hajicek-7.html
+  - hajicek-8.html
+  - hajicek-9.html
+  - hajicek-10.html
+  - hajicek-11.html
+  - hajicek-12.html
+  - hajicek-13.html
+  - hajicek-14.html
+  - hajicek-15.html
+  - hajicek-16.html
+  - hajicek-17.html
+  - hajicek-18.html
+  - hajicek-19.html
+  - hajicek-20.html
+  - hajicek-21.html
+  - hajicek-22.html
+  - hajicek-23.html
+  - hajicek-24.html
+  - hajicek-25.html
 tocBase:
-  - isSection: true
-    children:
-      - link: where-i-lived-and-what-i-lived-for.html
-        title: Where i lived and what i lived for
-        numberedChildren: true;
-        children:
-          - link: reading.html
-            title: Reading
-          - link: sounds.html
-            title: Sounds
-      - link: solitude.html
-        title: Solitude
+  - id: section-1
+    children: []
+    isSection: true
 static:
   - style
   - scripts
+  - title
   - fonts
-  - images
+  - resources
   - template-images
   - assets
   - favicon.png
