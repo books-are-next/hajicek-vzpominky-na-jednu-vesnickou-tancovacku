@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Driving Home for Christmas
+**Driving Home for Christmas**
 
 „Podívej, z nebe padá polystyren,“ řekla Kateřina a hleděla ve svých brýlích s černými obroučkami z okna. Standa viděl nad okrajem monitoru počítače jen půlku jejího obličeje. Otočil hlavu, přes otevřené žaluzie viděl, jak se to sype shůry na žižkovský chodník. Kancelář byla příjemně vytopená a hluk ulice pronikal dovnitř jen tlumeně. Drobounké vločky sněhu se za chvíli změnily v déšť.
 
@@ -88,7 +88,7 @@ Než Standa došel zpátky k prosklenému administrativnímu paláci, potvrdil 
 
 „Víš co? Mám sice na svátky zabukovanej dvoulůžák ve Špindlu, ale myslím, že pozejtří přijedu,“ řekl Standa a přerušil hovor.
 
-Velké černé audi uhánělo po Strakonické, krátce po poledni byly silnice suché a Standa se těšil z toho pocitu, že garážované a čerstvě nablýskané auto za těch sto padesát kilometrů, které je čekaly, dojede čisté. V rádiu hráli vánočně, Chris Rea svým chraplavým hlasem právě zpíval Driving Home for Christmas. Tamara se na sedadle vedle Standy usmívala. Tajemně, zdálo se mu. Hnědé oči a vlasy. Má asi ráda nápadné šperky, napadlo ho, na černém roláku se vyjímal masivní jantarový přívěsek. Zdálo se mu, že těch tajemství ještě zbývá mnoho. Měl to tak rád, když všechno bylo na začátku.
+Velké černé audi uhánělo po Strakonické, krátce po poledni byly silnice suché a Standa se těšil z toho pocitu, že garážované a čerstvě nablýskané auto za těch sto padesát kilometrů, které je čekaly, dojede čisté. V rádiu hráli vánočně, Chris Rea svým chraplavým hlasem právě zpíval _Driving Home for Christmas_. Tamara se na sedadle vedle Standy usmívala. Tajemně, zdálo se mu. Hnědé oči a vlasy. Má asi ráda nápadné šperky, napadlo ho, na černém roláku se vyjímal masivní jantarový přívěsek. Zdálo se mu, že těch tajemství ještě zbývá mnoho. Měl to tak rád, když všechno bylo na začátku.
 
 „Naši jsou fajn, uvidíš. No a taky poznáš bráchu a jeho rodinu,“ řekl Standa. Znělo to jako ospravedlnění. Musel Tamaru trochu přemlouvat. Změnit plány na poslední chvíli před Vánoci a navíc brát do rodiny čerstvou známost, to bylo i pro něho dost narychlo.
 
@@ -232,7 +232,7 @@ Otec konečně vystoupil z černého auta a vítal se s dětmi a vnoučaty. 
 
 „Co tady po tmě kujete, vy dva?“ zahlaholila Jarka a Josef proklouzl dveřmi do obývacího pokoje, odkud blikala barevná světýlka.
 
-Když zazvonil zvoneček, všechno se zase rozjelo. Dvojčata, chlapeček a holčička, oba s andělsky blonďatými vlásky, se prala o dárky, šustily vánoční papíry, všichni děkovali Ježíškovi a klopýtali mezi rozbalenými krabicemi. Petr si po chvíli sedl do kouta s kytarou, Standa vzal Tamaru za ruku a táhl ji za ním. Celej brácha, řekl si Standa, když Petr hrábl do strun a spustil vánoční song od Johna Lennona. Vlasy mu padaly do čela, na nose měl pihy a přivíral oči, když zpíval. Zpívali s ním So this is Christmas a Josef s Jarkou se přidali, ale trvalo to jen chvíli, než to přehlušily vřeštící děti, které se dožadovaly pozornosti.
+Když zazvonil zvoneček, všechno se zase rozjelo. Dvojčata, chlapeček a holčička, oba s andělsky blonďatými vlásky, se prala o dárky, šustily vánoční papíry, všichni děkovali Ježíškovi a klopýtali mezi rozbalenými krabicemi. Petr si po chvíli sedl do kouta s kytarou, Standa vzal Tamaru za ruku a táhl ji za ním. Celej brácha, řekl si Standa, když Petr hrábl do strun a spustil vánoční song od Johna Lennona. Vlasy mu padaly do čela, na nose měl pihy a přivíral oči, když zpíval. Zpívali s ním _So this is Christmas_ a Josef s Jarkou se přidali, ale trvalo to jen chvíli, než to přehlušily vřeštící děti, které se dožadovaly pozornosti.
 
 Večer dosprintoval až k jedenácté hodině. Nejdříve se vytratil Petr, otrávený z rodinného koloritu, pak mrzutá dvojčata začala řvát, že chtějí sněhuláka, kterého jim tatínek slíbil. Josef nevěděl, jak je utišit, tak jim ho slíbil znovu na druhý den, odešel obě děti uložit do pokoje na konci chodby a už se nevrátil.
 

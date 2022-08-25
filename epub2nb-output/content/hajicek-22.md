@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Koleje ve sněhu
+**Koleje ve sněhu**
 
 Sněžit přestalo kolem poledne. Malý smrček seděl vpředu, špici měl ohnutou o strop auta. Josef se podíval do zpětného zrcátka. Střapec jehličí, manželka Jarka, kterou pro tentokrát vystěhoval dozadu, na klíně měla jedno z dvojčat, holčičku. Vedle ní jejich syn Petr, tomu seděl na kolenou tříletý chlapeček se světlounkými vlásky. Petr měl na nose pihy, i úsměv po mámě, i vlasy. Tedy jejich plavý odstín. Dredy byly výstřelkem jeho sedmnácti let. Všichni se vzadu mačkali navlečení v kabátech, auto netopilo. Na okamžik Josef zapomněl na bolest hlavy a cítil se jako šťastnej chlap, než zase upřel oči před sebe, pálily ho z nevyspání. Čerstvý poprašek sněhu na silnici před autem byl čistý, neporušený. Čím více se blížili k vesnici, tím byla sjízdnost horší.
 
@@ -272,7 +272,7 @@ Josef cítil bolest v celé pravé straně hlavy. Jako by měl do spánku vraž
 
 „Teď není čas na ty tvoje zkazky,“ ozval se Josef.
 
-„Jo, hochu, tahle dřevěná bouda něco pamatuje,“ pokračoval dědeček otočený k vnukovi, syna si nevšímal. „Slávek mi tu vyprávěl o Berlíně. O Totaleinsatz. Byl ročník jednadvacet. Spiralfederwerke Berlin! To si pamatoval do smrti.“
+„Jo, hochu, tahle dřevěná bouda něco pamatuje,“ pokračoval dědeček otočený k vnukovi, syna si nevšímal. „Slávek mi tu vyprávěl o Berlíně. O _Totaleinsatz._ Byl ročník jednadvacet. _Spiralfederwerke Berlin!_ To si pamatoval do smrti.“
 
 „Co to znamená, dědo?“
 

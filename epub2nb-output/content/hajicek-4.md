@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Pinky a já
+**Pinky a já**
 
 Pinky a já jsme se zase po čase měli sejít. Léto zrovna dohořívalo a já jsem strašně chtěl být free, ale i na tohle jsem byl nějak líný. Vystoupil jsem z vagonu a prošel nádražní halou, prosklenou klenbou na mě shora padalo světlo, dělalo mi fleky na šatech a na obličeji, že jsem musel vypadat jako figura z impresionistického obrazu, celý slepený z těch skvrn. Zahlédl jsem Pinkyho na protější straně silnice. Zelená otlučená Škoda 100 zaparkovaná u obrubníku vypadala o poznání hůř, než jak jsem si ji pamatoval z loňského prosince, zato Pinky byl zase o něco tlustší a snad i menší, umaštěné vlasy, rovné jako hřebíky, měl ulíznuté k čelu.
 

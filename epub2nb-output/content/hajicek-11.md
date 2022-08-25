@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Koně se mají pohřbívat
+**Koně se mají pohřbívat**
 
 Erika se skláněla nade mnou. Lechtaly mě ty tamponky a tužka na obočí a její prsty poskakovaly kolem mé tváře tak lehounce.
 
@@ -126,7 +126,7 @@ Odepjala jsem si pás a otevřela dveře, táta se nehýbal. Podívala jsem se 
 
 „Vypadnem co nejdřív. Nikomu neříkej, že jsem musel prodat ten druhej náklaďák. Ani o těch dluzích u banky. Zkrátka nic, o čem mluvíme doma s mamkou. Jasný?“
 
-Tátovo jasný bylo ostré a mně se stáhl žaludek pokaždé, když to na mě zasyčel.
+Tátovo _jasný_ bylo ostré a mně se stáhl žaludek pokaždé, když to na mě zasyčel.
 
 „Nic jim do toho není,“ dodal už mírněji.
 

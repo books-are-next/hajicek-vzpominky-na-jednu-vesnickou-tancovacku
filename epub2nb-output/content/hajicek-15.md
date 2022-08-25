@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Melancholické lístečky z podzimních stromů demokracie
+**Melancholické lístečky z podzimních stromů demokracie**
 
 V říjnu už vlaštovky dávno odletěly na lepší a počasí se mění přes noc podle větru, který dělá vrásky na Vltavě, zřasí vodní hladinu a letí dál nad lesy. Ráno jsem vyšel z vrátek od našeho domku, dal jsem se podle vody a až na konci vesnice jsem se vrátil na rozbitou okresní silnici, která se za poslední chalupou vytáčí do kopce. Smaltovaná cedule na domě s nápisem Místní lidová knihovna byla oprýskaná a držela už jenom na dvou šroubech. Otevřenými dveřmi jsem zahlédl dědouše Michálků, že už čeká uvnitř. Nebral to na lehkou váhu. To je POLITIKA, říkával starostlivým hlasem. Taky paní vedoucí z pošty už tam byla, a tak jsme byli všichni, předseda volební komise, místopředseda a zapisovatelka.
 
@@ -272,7 +272,7 @@ Dosedl jsem na pohovku vedle Táni a vší silou jsem ji zavřenou kronikou pra
 
 „Vy s tím naděláte, vy dva patrioti. Tahle ves už to má stejně spočítaný. Zbude tu pár rekreačních chalup a hotovo. Amen,“ řekla Táňa prorocky.
 
-„Co mám teď dělat? Dědouš na tý kronice hrozně visí. Tuhle mi přines takovou brožurku. Jak si tříbit rukopis se to jmenuje. Je to ještě z první republiky, prej abych nedělal ostudu tím svým mazopisem.“
+„Co mám teď dělat? Dědouš na tý kronice hrozně visí. Tuhle mi přines takovou brožurku. _Jak si tříbit rukopis_ se to jmenuje. Je to ještě z první republiky, prej abych nedělal ostudu tím svým mazopisem.“
 
 „Nevzdychej a pojď se projít,“ plácla mě lehce do zad, „nebo v týhle barabizně shniješ zaživa…“
 

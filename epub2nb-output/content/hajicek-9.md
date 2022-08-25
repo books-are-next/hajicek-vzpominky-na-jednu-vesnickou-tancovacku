@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Dřevěný nůž
+**Dřevěný nůž**
 
 „Myšáčku, povídej, jaký to s ní bylo? Přeháněj…“ šklebil se tlusťoch Markýz a utíral si ruce do zamaštěné pucvole.
 
@@ -210,7 +210,7 @@ Náraz vzduchu nazvedl víčka, Michal se probudil z chatrného polospánku a 
 
 „Já k vám patřím, přece…“
 
-„To si dobře rozmysli a chovej se podle toho. Buď řekneš jo, že chceš bejt jako my, nebo řekneš ne, a pak si dělej, co chceš. Máš do večera čas na rozmyšlenou, pak sem přijdeš a řekneš jo, nebo ne. Jasný? A teď vypadni!“
+„To si dobře rozmysli a chovej se podle toho. Buď řekneš _jo_, že chceš bejt jako my, nebo řekneš _ne_, a pak si dělej, co chceš. Máš do večera čas na rozmyšlenou, pak sem přijdeš a řekneš _jo_, nebo _ne_. Jasný? A teď vypadni!“
 
 Michal seděl na posteli a hleděl do podlahy. Bratr ho sledoval výhrůžným pohledem.
 
@@ -236,7 +236,7 @@ Michal stál na chodbě na dlaždicích, jako by nechápal, co má udělat, dív
 
 „Co víš teď?“
 
-„Že ti chci říct jo, já chci bejt s váma…“
+„Že ti chci říct _jo_, já chci bejt s váma…“
 
 „Říkal jsem ti, až si to rozmyslíš, tak přijď.“
 

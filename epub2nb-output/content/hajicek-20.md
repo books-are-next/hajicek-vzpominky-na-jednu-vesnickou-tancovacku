@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Lvíčata
+**Lvíčata**
 
 Trenér Vařeca chtěl tu pětistovku odevzdat. Ale vracel se poledním autobusem z Budějovic a bankovka ho pořád pálila v šosu saka. Celé páteční dopoledne běhal od jednoho úřadu ke druhému, jenže když vytáhl bílou obálku a řekl, o co jde, narazil všude jen na svraštělá čela a vyhýbavé pohledy. Za celou dobu pětistovku nevzal do ruky, kvůli otiskům prstů, myslel si. Jenže na poslední instanci, na policejní služebně, se mu vysmáli a poslali ho domů.
 

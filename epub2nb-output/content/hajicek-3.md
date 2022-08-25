@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Obsah
+**Obsah**
 
 [Pinky a já](./resources/undefined)
 

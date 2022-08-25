@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Octavia
+**Octavia**
 
 Pan Bouška bydlí v Neměřicích v domku číslo popisné jedenáct. Už je mu přes šedesát. Pleš, trochu při těle. Před garáží leští automobil Škoda Octavia Super, rok výroby 1960. Je to novější typ 703 s řazením ne u volantu, ale už na podlaze. Zdvihový objem 1221 kubických centimetrů, výkon třiatřicet kilowatt.
 

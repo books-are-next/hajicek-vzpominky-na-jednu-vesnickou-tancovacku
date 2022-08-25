@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Vzpomínky na jednu vesnickou tancovačku roku 1986
+**Vzpomínky na jednu vesnickou tancovačku roku 1986**
 
 Okna hospody byla otevřená na náves, a když na chvíli přestala hrát dechovka, jako by letní soumrak zvenku šuměl v rozevlátých zažloutlých záclonách. Do dýmu z cigaret v hospodském sálku se mísil štiplavý kouř zvenčí, věděli jsme, že to jde směrem od kostela, hrobař pálil staré věnce a uschlé kytice i se stuhami. Bylo mu jedno, že je sobota večer, neslyšel hudbu, tam pod kostelem hučela řeka, žlutý a hnědý proud pod jezem nesl pach ryb a rostlin a bahna, které vláčel po dně. Jako bych viděl starého pána, jak přihazuje do ohně, jak dýchá ten dým a vůni řeky, která stoupá až k němu za nízkou zídku z kamene, nahoru nad sráz od Vltavy mezi litinové kříže.
 
@@ -100,7 +100,7 @@ Až za drahnou chvíli jsem si všiml, že dohrála muzika, pankáči přešli t
 
 Došel jsem s ním vlahou tmou přes náves, kolem národního výboru a místní lidové knihovny až k jeho stavení, Neměřice číslo popisné dvacet osm. Pokynul mi holí a zmizel za vrátky.
 
-Když jsme se dali do jídla, kapela začala hrát další rundu, ale parket byl poloprázdný. Jenže to trvalo jen jeden tanec, protože potom kapelník zavelel a muzika spustila osvědčené písničky, které lidi zvedly ze židlí, Malý hošík černovlasý a Šestého července na strahovských hradbách…
+Když jsme se dali do jídla, kapela začala hrát další rundu, ale parket byl poloprázdný. Jenže to trvalo jen jeden tanec, protože potom kapelník zavelel a muzika spustila osvědčené písničky, které lidi zvedly ze židlí, _Malý hošík černovlasý_ a _Šestého července na strahovských hradbách_…
 
 Strejda brácha a Krámský dojedli a Libuna jim mezitím přinesla další piva. Já jsem ještě zápasil s trochu tuhým plátkem masa opečeným jen tak na přírodní způsob.
 

@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Příběh milovnice koňakových špiček
+**Příběh milovnice koňakových špiček**
 
 V cukrárně na Linecké třídě se perou vůně, tiše vrčí stroj na zmrzlinu, hodiny nade dveřmi ukazují něco po třetí, jsou z pastelově modrého a růžového plastu, vypadají jako z marcipánu. Paní Kühlmayer si to hasí k pultu, div by nepředběhla ostatní. Je malá a nevidí přes dva lidi ve frontě před sebou. Nahlíží netrpělivě do chladicích vitrín, vytahuje se na špičky.
 
@@ -76,15 +76,15 @@ Tereza obsluhuje další zákazníky a paní Kühlmayer dopíjí vídeňskou k�
 
 „A v Rakousku nemáte zákusky?“
 
-Paní Kühlmayer se rozesměje, „Terezko, u nás v Salcburku je cukráren snad padesát, to mi věř. Když si chceš dát s kamarádkou fajnový kafe, jdeš na Residenzplatz do Café Tomaselli, z terasy se koukáš na zástupy turistů, co se jdou mrknout za roh na sochu velkýho Amadea, upíjíš tasse melange a zakusuješ k tomu Sacherdort. A hned naproti vidíš cukrárnu Fürst, kde maj zaručeně pravý Mozartkugeln, v modrým papírku. A hned za roh vidíš na Josef Holzmayr Süsswaren, tam maj ty Mozartovo koule balený v červeným papírku a taky zaručeně echt! Vyber si… A zákusků jsou tam stovky, nejfajnovější dortíky a nejjemnější čokoláda,“ paní Kühlmayer trochu zvážní, „ale takovouhle špičku, co jsem si dávala jako malá holka, tam nikde nekoupíš.“
+Paní Kühlmayer se rozesměje, „Terezko, u nás v Salcburku je cukráren snad padesát, to mi věř. Když si chceš dát s kamarádkou fajnový kafe, jdeš na Residenzplatz do Café Tomaselli, z terasy se koukáš na zástupy turistů, co se jdou mrknout za roh na sochu velkýho Amadea, upíjíš _tasse melange_ a zakusuješ k tomu _Sacherdort._ A hned naproti vidíš cukrárnu Fürst, kde maj zaručeně pravý _Mozartkugeln,_ v modrým papírku. A hned za roh vidíš na Josef Holzmayr Süsswaren, tam maj ty Mozartovo koule balený v červeným papírku a taky zaručeně echt! Vyber si… A zákusků jsou tam stovky, nejfajnovější dortíky a nejjemnější čokoláda,“ paní Kühlmayer trochu zvážní, „ale takovouhle špičku, co jsem si dávala jako malá holka, tam nikde nekoupíš.“
 
 „Vážně?“ Tereza na chvíli přestane přerovnávat sladkosti ve vitríně a podívá se na tácek s koňakovými špičkami. „Ale stejně nechápu, co vám na nich tak chutná, jsou docela obyčejný.“
 
-„Jsi mlaďoučká,“ usmívá se paní Kühlmayer. Pak si zamyšleně škrábe pravý spánek nožičkou dioptrických brýlí, „ta chuť, totiž, tahleta chuť mi přinese na jazyk něco, co ten nejlepší Sacherdort v Zauner nikdy nedokáže… víš? Víš, kde je Zauner? Až pojedeš někdy tam k nám do Land Salzburg a budeš chtít někoho pozvat do vopravdu vyhlášený cukrárny, zajeď do Bad Ischl, to je takový lázeňský městečko, kde si užíval císař líbánky, akorát že ne se svojí ženou, che che, zkrátka zajeď tam a vem ho do Konditorei Zauner. Z tolika delikátních dortíků, čokoládovejch ježků a marcipánu se každýmu musí zatočit hlava.“
+„Jsi mlaďoučká,“ usmívá se paní Kühlmayer. Pak si zamyšleně škrábe pravý spánek nožičkou dioptrických brýlí, „ta chuť, totiž, tahleta chuť mi přinese na jazyk něco, co ten nejlepší _Sacherdort_ v Zauner nikdy nedokáže… víš? Víš, kde je Zauner? Až pojedeš někdy tam k nám do Land Salzburg a budeš chtít někoho pozvat do vopravdu vyhlášený cukrárny, zajeď do Bad Ischl, to je takový lázeňský městečko, kde si užíval císař líbánky, akorát že ne se svojí ženou, che che, zkrátka zajeď tam a vem ho do Konditorei Zauner. Z tolika delikátních dortíků, čokoládovejch ježků a marcipánu se každýmu musí zatočit hlava.“
 
 „Ale špička je špička, říkáte?“ řekne rozpustile Tereza a prohlíží si spokojenou a trochu zasněnou paní, na kterou už jdou léta.
 
-„Jo jo,“ pokyvuje dál zamyšleně hlavou, „já vím, že je vobyčejná a za moc nestojí, ale v tý chuti to pořád je. Všechno to tenkrát. To, co už bylo. To mládí, víš?“
+„Jo jo,“ pokyvuje dál zamyšleně hlavou, „já vím, že je vobyčejná a za moc nestojí, ale v tý chuti to pořád je. Všechno to _tenkrát_. To, co už bylo. To mládí, víš?“
 
 Paní Kühlmayer se podívá se soustředěným výrazem na Terezu.
 
@@ -222,7 +222,7 @@ Restaurace už je skoro prázdná a náměstíčko za okny ztichlé. Ještě so
 
 „A zvednul to on? Nebo manželka?“ visí na rtech kamarádky paní Váňová.
 
-„Ozval se mužskej hlas, to víš, že bych ho nepoznala. Matějovský, ozvalo se. Tady Jana, povídám. A on, která Jana? Povídám, Jana. Já znám Jan, on na to… A já na něj, ale já jsem ta Jana…“
+„Ozval se mužskej hlas, to víš, že bych ho nepoznala. Matějovský, ozvalo se. Tady Jana, povídám. A on, která Jana? Povídám, Jana. Já znám Jan, on na to… A já na něj, ale já jsem _ta_ Jana…“
 
 Obě se napily, paní Kühlmayer se ještě chvěly ruce tou nedávnou vzpomínkou.
 
@@ -238,7 +238,7 @@ Paní Váňová se usmívá a pak dojde ještě na jeden koňáček, ten opravd
 
 Hádají se při placení, ona je tu přece doma, ale paní Kühlmayer si nakonec prosadí svou a platí celou útratu. Vyjdou do noci, vzduch je mišunk koňaku a dešťové vody a ztřeštěného smíchu.
 
-„… já si vemu štekle a úplně jsem zapomněla na ty vaše Katzenköpfe, teď se tu na nich zabiju!“
+„… já si vemu štekle a úplně jsem zapomněla na ty vaše _Katzenköpfe,_ teď se tu na nich zabiju!“
 
 Omoklé dlažební kostky na náměstí jsou nerovné a blýskají se, paní Kühlmayer se smeká a kráčí nejistě. Zavěsí se do paní Váňové.
 

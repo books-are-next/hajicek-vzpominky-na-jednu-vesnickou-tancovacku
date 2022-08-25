@@ -1,0 +1,592 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Vzpomínky na jednu vesnickou tancovačku",
+  "author": "Jiří Hájíček",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "hajicek-vzpominky-na-jednu-vesnickou-tancovacku-03e9e7d",
+  "revision": "03e9e7d",
+  "readingOrder": [
+    "promo.html",
+    "hajicek.html",
+    "hajicek-1.html",
+    "hajicek-2.html",
+    "hajicek-3.html",
+    "hajicek-4.html",
+    "hajicek-5.html",
+    "hajicek-6.html",
+    "hajicek-7.html",
+    "hajicek-8.html",
+    "hajicek-9.html",
+    "hajicek-10.html",
+    "hajicek-11.html",
+    "hajicek-12.html",
+    "hajicek-13.html",
+    "hajicek-14.html",
+    "hajicek-15.html",
+    "hajicek-16.html",
+    "hajicek-17.html",
+    "hajicek-18.html",
+    "hajicek-19.html",
+    "hajicek-20.html",
+    "hajicek-21.html",
+    "hajicek-22.html",
+    "hajicek-23.html",
+    "hajicek-24.html",
+    "hajicek-25.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Aug 25 2022 09:38:05 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661420285670
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "hajicek.html",
+      "toc": []
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "hajicek-1.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-1.html",
+      "words": 10,
+      "chars": 67,
+      "ideas": 4,
+      "role": "chapter",
+      "order": 2,
+      "prev": "hajicek.html",
+      "next": "hajicek-2.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-2.html",
+      "words": 26,
+      "chars": 193,
+      "ideas": 5,
+      "role": "chapter",
+      "order": 3,
+      "prev": "hajicek-1.html",
+      "next": "hajicek-3.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-3.html",
+      "words": 62,
+      "chars": 399,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 4,
+      "prev": "hajicek-2.html",
+      "next": "hajicek-4.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-4.html",
+      "words": 3870,
+      "chars": 22147,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 5,
+      "prev": "hajicek-3.html",
+      "next": "hajicek-5.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-5.html",
+      "words": 8015,
+      "chars": 44674,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 6,
+      "prev": "hajicek-4.html",
+      "next": "hajicek-6.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-6.html",
+      "words": 8674,
+      "chars": 48381,
+      "ideas": 228,
+      "role": "chapter",
+      "order": 7,
+      "prev": "hajicek-5.html",
+      "next": "hajicek-7.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-7.html",
+      "words": 4058,
+      "chars": 22992,
+      "ideas": 134,
+      "role": "chapter",
+      "order": 8,
+      "prev": "hajicek-6.html",
+      "next": "hajicek-8.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-8.html",
+      "words": 5716,
+      "chars": 32605,
+      "ideas": 109,
+      "role": "chapter",
+      "order": 9,
+      "prev": "hajicek-7.html",
+      "next": "hajicek-9.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-9.html",
+      "words": 2039,
+      "chars": 11753,
+      "ideas": 121,
+      "role": "chapter",
+      "order": 10,
+      "prev": "hajicek-8.html",
+      "next": "hajicek-10.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-10.html",
+      "words": 2152,
+      "chars": 12936,
+      "ideas": 52,
+      "role": "chapter",
+      "order": 11,
+      "prev": "hajicek-9.html",
+      "next": "hajicek-11.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-11.html",
+      "words": 6640,
+      "chars": 37562,
+      "ideas": 219,
+      "role": "chapter",
+      "order": 12,
+      "prev": "hajicek-10.html",
+      "next": "hajicek-12.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-12.html",
+      "words": 3859,
+      "chars": 22402,
+      "ideas": 163,
+      "role": "chapter",
+      "order": 13,
+      "prev": "hajicek-11.html",
+      "next": "hajicek-13.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-13.html",
+      "words": 859,
+      "chars": 5170,
+      "ideas": 18,
+      "role": "chapter",
+      "order": 14,
+      "prev": "hajicek-12.html",
+      "next": "hajicek-14.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-14.html",
+      "words": 3826,
+      "chars": 21664,
+      "ideas": 103,
+      "role": "chapter",
+      "order": 15,
+      "prev": "hajicek-13.html",
+      "next": "hajicek-15.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-15.html",
+      "words": 4508,
+      "chars": 26186,
+      "ideas": 177,
+      "role": "chapter",
+      "order": 16,
+      "prev": "hajicek-14.html",
+      "next": "hajicek-16.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-16.html",
+      "words": 4286,
+      "chars": 25298,
+      "ideas": 209,
+      "role": "chapter",
+      "order": 17,
+      "prev": "hajicek-15.html",
+      "next": "hajicek-17.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-17.html",
+      "words": 5519,
+      "chars": 31585,
+      "ideas": 97,
+      "role": "chapter",
+      "order": 18,
+      "prev": "hajicek-16.html",
+      "next": "hajicek-18.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-18.html",
+      "words": 4337,
+      "chars": 25293,
+      "ideas": 213,
+      "role": "chapter",
+      "order": 19,
+      "prev": "hajicek-17.html",
+      "next": "hajicek-19.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-19.html",
+      "words": 3136,
+      "chars": 19447,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 20,
+      "prev": "hajicek-18.html",
+      "next": "hajicek-20.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-20.html",
+      "words": 3929,
+      "chars": 23606,
+      "ideas": 223,
+      "role": "chapter",
+      "order": 21,
+      "prev": "hajicek-19.html",
+      "next": "hajicek-21.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-21.html",
+      "words": 4637,
+      "chars": 27188,
+      "ideas": 259,
+      "role": "chapter",
+      "order": 22,
+      "prev": "hajicek-20.html",
+      "next": "hajicek-22.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-22.html",
+      "words": 3797,
+      "chars": 22018,
+      "ideas": 177,
+      "role": "chapter",
+      "order": 23,
+      "prev": "hajicek-21.html",
+      "next": "hajicek-23.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-23.html",
+      "words": 3355,
+      "chars": 19766,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 24,
+      "prev": "hajicek-22.html",
+      "next": "hajicek-24.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-24.html",
+      "words": 147,
+      "chars": 948,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 25,
+      "prev": "hajicek-23.html",
+      "next": "hajicek-25.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzpomínky na jednu vesnickou tancovačku",
+      "file": "hajicek-25.html",
+      "words": 42,
+      "chars": 295,
+      "ideas": 10,
+      "role": "chapter",
+      "order": 26,
+      "prev": "hajicek-24.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 87510,
+      "chars": 504642,
+      "ideas": 2823
+    },
+    "chapters": {
+      "words": 87500,
+      "chars": 504575,
+      "ideas": 2818
+    }
+  }
+}

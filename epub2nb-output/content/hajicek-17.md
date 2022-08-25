@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Baywatch
+**Baywatch**
 
 Poslední léta mám opravdu nejraději, když Vltava zamrzne, tátu to pak k řece netáhne. Bojí se ledu. Má strach, že by si zlomil nohu, a ví, co by to v jeho věku mohlo znamenat. Je mu skoro osmdesát, zůstali jsme v polozatopený vsi z celý rodiny sami.
 
@@ -178,7 +178,7 @@ Před kostelem se líbají dva mlaďoši, poznávám Kristýnu od Božky Navrát
 
 Vystoupám po plochejch kamennejch schodech a beru za kliku. Z temný chodbičky mě ovane ta naplesnivělá vůně smíchaná s kyselým odérem piva, hořčice, křenu a cigaretovýho kouře. Ve výčepu už jsou všichni, Pepík, Marta, Petr s Luckou a Máťa. Matěj neboli Máťa je můj šipkovej parťák, mladej, osmadvacet let, hrajeme v párech. Zdá se, že čekali jen na mě. Vypadnem do sálku, kde u zdi stojí ta hrací bedna s terčem, ve výčepu není místo, jen tak na pár židlí. Chodíme si tam přes chodbu pro pití a rozměňovat kovový dvacky do šipkovýho automatu.
 
-Mám s sebou dvě dývídýčka na vrácení, většinou nosí vypálený dývka Pepík nebo Lucie, sháním se po něčem novým. Ale je tam jen Hostel dvojka, horor, ten už jsem viděla, a potom dvě péčka. To mě nebaví, tak si neberu nic. To už máme v rukou šipky, Máťa mi nese z výčepu malý pivo a zapínáme terč. Začne červeně blikat a zahraje znělku, Marta tam navolí program a jako první dovnitř naháže mince. Nejradši hrajeme pozpátku, odečítání do nuly.
+Mám s sebou dvě dývídýčka na vrácení, většinou nosí vypálený dývka Pepík nebo Lucie, sháním se po něčem novým. Ale je tam jen _Hostel_ dvojka, horor, ten už jsem viděla, a potom dvě péčka. To mě nebaví, tak si neberu nic. To už máme v rukou šipky, Máťa mi nese z výčepu malý pivo a zapínáme terč. Začne červeně blikat a zahraje znělku, Marta tam navolí program a jako první dovnitř naháže mince. Nejradši hrajeme pozpátku, odečítání do nuly.
 
 Každej má nějakej grif, já házím na dolní půlkruh na devatenáctky, mám to tak vyzkoušený. Pepík háže na střed a pokouší pětadvacítky a padesátky. Marta zkouší dubly. Někdy hrajeme proti sobě ve dvojicích o panáky, ale to vždycky jenom v sobotu. Já se přidám málokdy. Pivo mi docela chutná, ale kořalku nemusím. Ještě tak hořkej fernet, lak na rakve, jak říkáme, ale to jen někdy.
 
