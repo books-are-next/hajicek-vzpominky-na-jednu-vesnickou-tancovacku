@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Metání trav
+**Metání trav**
 
 Vystupuju na peron. Nádražíčko na malém městě. Souprava se dvěma vagony odjíždí. Lokálkou do Městce a odsud už musím pěšky do polí. Má to být osada s několika staveními se zahrádkami ve stráni. Vytahuju z kapsy plánek na dopisním papíře, kostrbaté čáry propisovačkou, jak je vlastní rukou napsal pan doktor Bartl. Zdvihnu hlavu od papíru, tvář mi hladí vánek, který protahuje nástupištěm. Jarní vítr je směsí naděje a vláhy, různých pylů a brouků vylíhlých ze země předešlého rána. Kýchám šestkrát za sebou, z očí mi tečou slzy a mám plný nos.
 

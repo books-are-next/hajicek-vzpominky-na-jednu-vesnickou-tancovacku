@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Popel nejlepšího záložníka
+**Popel nejlepšího záložníka**
 
 První poločas se vlekl bez branek. Martin Moravec zamyšleně sledoval z nízké tribuny bezradný odkop od brány semotického mužstva dospělých. Míč rychle nabral výšku a potom padal pomalým obloukem někam k půlicí čáře. Přesně jako moje fotbalová kariéra, řekl si Martin v duchu.
 

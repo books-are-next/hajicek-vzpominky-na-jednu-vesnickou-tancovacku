@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Bubny a dýmovnice
+**Bubny a dýmovnice**
 
 Starý pan Tanečka vyšel ze stavení kolem jedné hodiny odpolední. Zadním vchodem. K návsi to vzal oklikou přes humna, aby ho snacha nezahlédla, kolem lopuchem zarostlé strouhy. Převlékl se předtím ve své sedničce do svátečního a opatrně pootevřel dveře. Vzduch byl čistý. Syn se po nedělním obědě štrachal někde v garáži. Slunce stálo nad chalupami a mělo sílu, květnová neděle jako by uspala celé Semotice.
 

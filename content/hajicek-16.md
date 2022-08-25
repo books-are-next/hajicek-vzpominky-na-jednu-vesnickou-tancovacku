@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Anděl na půdě
+**Anděl na půdě**
 
 Jednou za sto let, když náhodou na Vánoce napadne sníh, když osamělá žena kolem třiceti nechá auto na kraji vesnice a doptá se sousedů na jisté jméno a proházeným sněhem najde tu chalupu, jednou za čas, na Štěpána, se může stát, že všechno je nakonec trochu jinak, než se zdá, a že na půdě toho stavení se probudí anděl.
 

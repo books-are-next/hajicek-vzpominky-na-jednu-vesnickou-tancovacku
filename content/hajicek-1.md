@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Jiří Hájíček
+**Jiří Hájíček**
 
 Vzpomínky na jednu vesnickou tancovačku
 

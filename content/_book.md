@@ -2,12 +2,16 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Vzpomínky na jednu vesnickou tancovačku
   identifier: urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b
   author: Jiří Hájíček
-  publisher: HOST – vydavatelství, s. r. o.
+  publisher: Městská knihovna v Praze
+  edition: beletrie
+  publisherShort: mkp
+  contentType: prose
 readingOrder:
   - promo.html
   - hajicek.html
@@ -40,6 +44,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

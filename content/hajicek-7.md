@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Někdy tě hledám
+**Někdy tě hledám**
 
 Ráno se probouzím unavený, nejde to smýt vodou z kohoutku, vidím to i v zrcadle. Obouvám si boty, za okny svit, tluče se mezi kolmými stěnami domů, přichází jakoby odnikud, nebe tu není, jen nějaké parametry ovzduší. A slunce ještě před pár týdny studilo.
 
@@ -46,7 +46,7 @@ Obracím se na Péťu. „Jdeme na Malej kanál, nebo na Velkej?“
 
 Z chodníku před domem ještě zamáváme nahoru do okna a už chvátáme na tramvaj, co jede zpátky přes celé město až do okrajové čtvrti s rodinnými domky a nemocnicí. Jsme dva lovci a město má své kyseliny a zvuky, nechce nás pustit, dlouho nás doprovází, a teprve až u konečné stanice vidíme do volné krajiny. Potom pustá pláň, jdeme po bývalém vojenském cvičišti zarostlém trávou a keři, přecházíme po širokém prkně přes nějaké polozasypané zákopy a vidíme řeku, jdeme po proudu k brodu, vjezd do vody je vydlážděn betonovými deskami, břeh je zpevněný i dál, míjíme plechovou boudu, má zurážené zámky na vratech a je prázdná. Procházíme kolem místa, kde se před rokem topil bagr, Péťa si na to pamatuje a ukazuje mi ten úsek. Po deseti minutách jsme u cíle. Břeh se tu svažuje pozvolna, vytahuju z Péťovy tašky kus impregnovaného zeleného plátna, sedám si na něj, Péťa má rozkládací sedátko. Na tomhle kilometru je Velký kanál snad nejširší. Péťa už rozložil svůj rybářský prut, má černý lesklý lak.
 
-„Mám pro tebe doma nový číslo Rybáře. Je tam pokračování toho seriálu o rybářskejch oblastech ve Švédsku a burza a to všechno…“
+„Mám pro tebe doma nový číslo _Rybáře._ Je tam pokračování toho seriálu o rybářskejch oblastech ve Švédsku a burza a to všechno…“
 
 „Táta mi koupil ten velkej atlas ryb, viděls ho?“
 

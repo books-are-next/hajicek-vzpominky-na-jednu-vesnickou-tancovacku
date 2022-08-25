@@ -4,7 +4,7 @@ contentType: prose
 
 <section>
 
-Havrani ve městě
+**Havrani ve městě**
 
 Lidé v Novém Městci si už za ty dva roky zvykli na policejní auto postávající na polní cestě za městem směrem na Radimilice a rakouské hranice. Pole jde až za obzor, kamenitá cesta končí uprostřed v remízkách, na jaře sem včelař přivleče pojízdné úly, k jetelu, vojtěšce nebo k řepce olejce.
 
@@ -30,11 +30,11 @@ Pan Kalich má v kuchyni na stole hromádku knih. Listuje pomalu jedním přír
 
 Pan Kalich skloní před těmi řečmi hlavu do knížky.
 
-„Tohle je ale, Maruš, ohromně zajímavý, poslouchej, co je napsáno v Kosmasovo kronice o havranech! Rytíř Berthold z Bertholdic jel po pražském mostě, a když dojel k věži, která jest na konci mostu při Malé Straně, srazili dva havrani kousajíce se kámen z nejvyššího vršku žaláře, kterýžto kámen spadnuv udeřil do hlavy téhož Bertholda, od kteréhož udeření on spadnuv z koně ihned vypustil ducha!“
+„Tohle je ale, Maruš, ohromně zajímavý, poslouchej, co je napsáno v _Kosmasovo kronice_ o havranech! _Rytíř Berthold z Bertholdic jel po pražském mostě, a když dojel k věži, která jest na konci mostu při Malé Straně, srazili dva havrani kousajíce se kámen z nejvyššího vršku žaláře, kterýžto kámen spadnuv udeřil do hlavy téhož Bertholda, od kteréhož udeření on spadnuv z koně ihned vypustil ducha!_“
 
-„Ty čteš Kosmovu kroniku?“
+„Ty čteš _Kosmovu kroniku_?“
 
-„Ne, tohle stojí v knížce Ptactvo Velké Prahy od Jiřího Bauma, vyšla ještě před válkou. To byl zoolog, Maruš. A poslechni si, jak to Baum komentuje. Přírodopisec, místo aby truchlil nad předčasnou smrtí statečného rytíře, se raduje, že má pěknou zprávu o výskytu havranů v Praze v době tak dávné. Jeho radost však není nezkalená, protože není jisto, zda v původním latinském originále slovo corvus znamená skutečně havrana, ale pravděpodobně ano. O sto let později mnich Klaret překládá slovo corvus slovem havran, kdežto vráně říká latinsky cornix, kavce monedula a krkavci geria. Je tedy alespoň pravděpodobné, že každoroční zimní návštěvy havranů v Praze jsou velmi starého data.“
+„Ne, tohle stojí v knížce _Ptactvo Velké Prahy_ od Jiřího Bauma, vyšla ještě před válkou. To byl zoolog, Maruš. A poslechni si, jak to Baum komentuje. _Přírodopisec, místo aby truchlil nad předčasnou smrtí statečného rytíře, se raduje, že má pěknou zprávu o výskytu havranů v Praze v době tak dávné. Jeho radost však není nezkalená, protože není jisto, zda v původním latinském originále slovo corvus znamená skutečně havrana, ale pravděpodobně ano. O sto let později mnich Klaret překládá slovo_ corvus _slovem havran, kdežto vráně říká latinsky_ cornix_, kavce_ monedula _a krkavci_ geria_. Je tedy alespoň pravděpodobné, že každoroční zimní návštěvy havranů v Praze jsou velmi starého data._“
 
 Paní Kalichová kroutí hlavou a nalévá polévku. Knížky jsou alespoň na chvíli odsunuty na okraj stolu.
 
@@ -44,7 +44,7 @@ Paní Kalichová kroutí hlavou a nalévá polévku. Knížky jsou alespoň na 
 
 „Ty seš fakt blázen.“
 
-„No jen se podívej, jsou to vzácný knížky. Tohle je ten Baum a tady Fauna ČSSR, díl třetí, Ptáci. Hudec a kolektiv. A tady, hele, Die Saatkrähe, 1956, napsal R. Gerber, Die neue Brehm-Bücherrei…“
+„No jen se podívej, jsou to vzácný knížky. Tohle je ten Baum a tady _Fauna ČSSR_, díl třetí, Ptáci. Hudec a kolektiv. A tady, hele, _Die Saatkrähe_, 1956, napsal R. Gerber, _Die neue Brehm-Bücherrei…_“
 
 „Ty umíš německy?“
 
@@ -56,7 +56,7 @@ Pan Kalich ztuhl s lžící před ústy, podíval se na manželku a pousmál s
 
 „Ono je to moc zajímavý, co všechno můžeš vypozorovat. A profesor Veselovský píše, že havraní hejno, když je na poli a hledá potravu, vždycky má pár jedinců, co jsou na okrajích a sledujou případný nebezpečí, který by celýmu hejnu mohlo hrozit. A pak dávají pokřikem signál, aby se všichni zvedli a uletěli. A tyhle předsunutý hlídky, Maruš, ty nemaj vlastně čas si sbírat potravu. A proto ostatní havrani z hejna jim nechávají stranou zvlášť pěkný kousky k snědku, než se v tý hlídce zase vystřídají…“
 
-Když má nadstrážmistr Kalich službu přes noc, vytáhne si někdy z police celý spis, který sám nadepsal HAVRANI a který už před lety založil kvůli stížnostem občanů. Vzpomíná si, jak to začalo. Lidé přicházeli, prý, dejte už do pořádku městský park. Ti ptáci ho úplně zničili. Maminky tam nemůžou jezdit s kočárky ani s dětmi na pískoviště. Všechno je zaneřáděné, všude ten jejich řev. A co z nich padá! Určitě mají roztoče a různé jiné parazity. A možná roznášejí tuberu. Někteří zase chodili na radnici, prý, udělejte už něco s těma příšernýma vránama. Pan Varnych o tom napsal pobouřený článek do místního Novoměsteckého zpravodaje.
+Když má nadstrážmistr Kalich službu přes noc, vytáhne si někdy z police celý spis, který sám nadepsal HAVRANI a který už před lety založil kvůli stížnostem občanů. Vzpomíná si, jak to začalo. Lidé přicházeli, prý, dejte už do pořádku městský park. Ti ptáci ho úplně zničili. Maminky tam nemůžou jezdit s kočárky ani s dětmi na pískoviště. Všechno je zaneřáděné, všude ten jejich řev. A co z nich padá! Určitě mají roztoče a různé jiné parazity. A možná roznášejí tuberu. Někteří zase chodili na radnici, prý, udělejte už něco s těma příšernýma vránama. Pan Varnych o tom napsal pobouřený článek do místního _Novoměsteckého zpravodaje_.
 
 Nadstrážmistr Kalich byl u toho, když hasiči z výsuvných žebříků likvidovali tohle jejich hnízdiště. Dlouhými bidly s háky a proudy vody z hasičských hadic strhávali velká hnízda ze stromů. Celkem třikrát se celá akce, při níž asistovala i Veřejná bezpečnost — to bylo někdy začátkem osmdesátých let — celkem třikrát se opakovala, než havrani z parku definitivně odtáhli. Pan Varnych se vždycky ochomejtal kolem. Ale havrani z Nového Městce nezmizeli.
 
@@ -100,11 +100,11 @@ Paní Kalichová rozpačitě přejíždí prstem po plastové rukojeti žehličk
 
 Paní Kalichová skládá kapesníky a tváří se zasmušile.
 
-„Nakonec tam budu muset něco napsat, jasně že jo. Uzavřít spis. Měla ses se mnou někdy dívat v televizi na Městečko Twin Peaks.“
+„Nakonec tam budu muset něco napsat, jasně že jo. Uzavřít spis. Měla ses se mnou někdy dívat v televizi na _Městečko Twin Peaks_.“
 
 „Nebavilo mě to.“
 
-„Agent Cooper taky odhalí vraha Laury Palmerový, samozřejmě. Ale to není všechno, jeho to zajímá ještě dál! Ano, Leland vraždil, ale proč? Vlastně ne on, ale něco v něm vraždilo. Jenže co to je? Co to je, to něco…?“
+„Agent Cooper taky odhalí vraha Laury Palmerový, samozřejmě. Ale to není všechno, jeho to zajímá ještě dál! Ano, Leland vraždil, ale proč? Vlastně ne on, ale _něco_ v něm vraždilo. Jenže co to je? Co to je, to _něco_…?“
 
 Paní Kalichová mlčí, upřeně sleduje žehličku, jak z ní stoupá pára a pak zdvihne oči k manželovi. Nasadil si zase brýle, hlavu skloněnou nad knihou. V napařovací žehličce to zasyčí.
 
