@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "hajicek-vzpominky-na-jednu-vesnickou-tancovacku-4ee2197",
-  "revision": "4ee2197",
+  "identifier": "hajicek-vzpominky-na-jednu-vesnickou-tancovacku-238b347",
+  "revision": "238b347",
   "readingOrder": [
     "promo.html",
     "hajicek.html",
@@ -40,8 +40,8 @@
     "hajicek-25.html"
   ],
   "generatedAt": {
-    "date": "Mon Oct 10 2022 15:42:29 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665416549410
+    "date": "Fri Oct 21 2022 11:31:40 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1666351900454
   },
   "documents": [
     {
